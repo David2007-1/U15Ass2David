@@ -23,7 +23,7 @@ header {
  
 /* Navigation Bar Styling */
 nav {
-    background-color: #333; /* Dark background for contrast */
+    background-color: blue ; /* Dark background for contrast */
     padding: 10px;
 }
  
@@ -76,12 +76,12 @@ nav a {
     width: 45%; /* Sets equal width for both sections */
     padding: 20px;
     border: 1px solid #ddd; /* Adds a subtle border */
-    background-color: #f9f9f9; /* Light background for readability */
+    background-color: black; /* Light background for readability */
 }
  
 /* Footer Styling */
 footer {
-    background-color: #333; /* Matches nav bar */
+    background-color: green; /* Matches nav bar */
     color: white; /* White text for contrast */
     padding: 10px;
     position: relative;
